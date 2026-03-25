@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 # Java Git Lab
+## How to Run
+Run project using IntelliJ Run button.
 
 Name: Jawad Hassan  
 Project: Lab 2  
