@@ -1,8 +1,9 @@
-# Java Git Lab - LOCAL VERSION
+<<<<<<< HEAD
+# Java Git Lab
 
 Name: Jawad Hassan  
 Project: Lab 2  
-Roll No: 123456
+Roll No: 12345
 
 ## Description
 This project demonstrates Java basics and Git workflow.
