@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Java Git Lab
+# Java Git Lab - GITHUB VERSION
 ## How to Run
 Run project using IntelliJ Run button.
 
