@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Git Lab
 
 Name: Jawad Hassan  
@@ -8,3 +9,6 @@ This project demonstrates Java basics and Git workflow.
 
 ## How to Run
 Run any class using IntelliJ Run button.
+=======
+# Java-Git-Lab2
+>>>>>>> 935e669dd44bd957b8c4254ef62a7582d0c527b0
