@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Java Git Lab
+# Java Git Lab - LOCAL VERSION
 
 Name: Jawad Hassan  
 Project: Lab 2  
